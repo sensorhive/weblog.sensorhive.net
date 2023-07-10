@@ -6,3 +6,8 @@ theme = 'anubis'
 [params]
   author = "sensorhive"
   email = "info@sensorhive.net"
+
+  [[params.social]]
+    id = "github"
+    name = "sensorhive"
+
