@@ -2,3 +2,7 @@ baseURL = 'https://sensorhive.net/'
 languageCode = 'en-us'
 title = 'sensorhive'
 theme = 'anubis'
+
+[params]
+  author = "sensorhive"
+  email = "info@sensorhive.net"
