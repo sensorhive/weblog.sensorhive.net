@@ -1,4 +1,4 @@
-baseURL = 'https://sensorhive.net/'
+baseURL = 'https://weblog.sensorhive.net/'
 languageCode = 'en-us'
 title = 'sensorhive'
 theme = 'anubis'
