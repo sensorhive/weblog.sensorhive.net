@@ -1,0 +1,4 @@
+baseURL = 'https://sensorhive.net/'
+languageCode = 'en-us'
+title = 'sensorhive'
+theme = 'anubis'
